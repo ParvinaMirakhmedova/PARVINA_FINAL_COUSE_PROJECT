@@ -1,0 +1,37 @@
+{
+    "patients": {
+      "table_name": "patients_1",
+      "columns": {
+        "Patient_ID": "patient_ID",
+        "Name": "full_name",
+        "Age in years": "age",
+        "Sex": "sex",
+        "Occupation": "occupation",
+        "Address": "address"
+      }
+    },
+    "diabetic_retinopathy": {
+      "table_name": "diabetic_retinopathy_1",
+      "columns": {
+        "Patient_ID": "patient_ID",
+        "Name": "full_name",
+        "DM type": "dm_type",
+        "Renal function": "renal_function",
+        "Duration of DM": "duration",
+        "Diabetic retinopathy": "diabetic_retinopathy",
+        "Fasting blood glucose": "fbg",
+        "Hereditary": "hereditary"
+      }
+    },
+    "diseases": {
+      "table_name": "diseases_1",
+      "columns": {
+        "Patient_ID": "patient_ID",
+        "Nephropathy": "nephropathy",
+        "Neuropathy": "neuropathy",
+        "Smoking": "smoking",
+        "BMI": "bmi"
+      }
+    }
+  }
+  
