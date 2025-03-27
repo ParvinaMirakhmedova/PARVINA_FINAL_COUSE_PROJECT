@@ -41,4 +41,4 @@
 
 
   ### ссылка на задеплоенный дашборд  
- 
+ https://parvinamirakhmedova-parvina-final-couse-project-main-xrmnj8.streamlit.app/
