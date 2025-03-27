@@ -41,4 +41,4 @@
 
 
   ### ссылка на задеплоенный дашборд  
-  https://parvinamirakhmedova-final-course-project-main-orebu4.streamlit.app/
+ 
