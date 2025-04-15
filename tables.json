@@ -3,7 +3,6 @@
       "table_name": "patients_1",
       "columns": {
         "Patient_ID": "patient_ID",
-        "Name": "full_name",
         "Age in years": "age",
         "Sex": "sex",
         "Occupation": "occupation",
@@ -14,7 +13,6 @@
       "table_name": "diabetic_retinopathy_1",
       "columns": {
         "Patient_ID": "patient_ID",
-        "Name": "full_name",
         "DM type": "dm_type",
         "Renal function": "renal_function",
         "Duration of DM": "duration",
