@@ -2,7 +2,6 @@
 CREATE OR REPLACE VIEW view1_patients_1 AS
 SELECT 
     p.patient_ID,
-    p.full_name,
     p.age,
     p.sex,
     p.occupation,
